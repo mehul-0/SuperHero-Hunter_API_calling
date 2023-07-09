@@ -1,5 +1,5 @@
 # SuperHero-Hunter_API_calling
-    This is a project which is made by using Vanilla JS, HTML, CSS.
+    This is a project which is made by using Vanilla JS, HTML, CSS. We used Marvel API for getting data by using await function and converting the data to json and then showing it on the Web page.
 
 # Home Page
     Fetch and display a list of SuperHeros (Characters) on the home page. Also create a search bar that will filter out the character based on search query. Suppose I type “bat” in the search box, it should show “batman”. 
