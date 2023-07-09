@@ -217,7 +217,7 @@ input::placeholder {
 /* ----------------------------------------------Toast for notification--------------------------------------------------*/
 .fav-toast,
 .remove-toast {
-     position: absolute;
+     position: fixed;
      bottom: 100px;
      font-size: 24px;
      width: 350px;
