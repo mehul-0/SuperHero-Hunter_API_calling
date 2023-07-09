@@ -3,6 +3,11 @@ body {
      height: 100vh;
 }
 
+#nav-btn a{
+     margin-left: 5px;
+     margin-right: 5px;
+}
+
 .info {
      justify-content: center;
      align-items: center;
